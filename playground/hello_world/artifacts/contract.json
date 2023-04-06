@@ -1,8 +1,8 @@
 {
-    "name": "simpleAdd",
+    "name": "caseAdd",
     "methods": [
         {
-            "name": "add",
+            "name": "caseAdd",
             "args": [
                 {
                     "type": "uint64",
